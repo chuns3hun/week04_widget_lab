@@ -93,4 +93,4 @@ No issues found! (ran in 6.8s)
 
 ## Git 커밋
 
-최종 제출 커밋 ID: **[git log -1 --format=%H 실행 결과 40자리 해시]**
+최종 제출 커밋 ID: 286044195944de610be31a9429bb62d64b6e4b84
